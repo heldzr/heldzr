@@ -1,6 +1,6 @@
 ### Hello World! Welcome to Helder's Profile 👋🏽
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/helder-bernardo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heldzr_) [![Lattes](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](http://lattes.cnpq.br/2652874900607369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/helder-bernardo/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heldzr_) [![Lattes](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](http://lattes.cnpq.br/2652874900607369)
 
 ![Helder's GitHub stats](https://github-readme-stats.vercel.app/api?username=heldzr&show_icons=true&theme=dracula)
 
